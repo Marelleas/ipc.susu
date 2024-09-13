@@ -1,0 +1,1 @@
+for i in sorted([input() for i in range (int(input()))], key = len): print(i)
